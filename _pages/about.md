@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Innsbruck</p>
 
-selected_papers: true
+selected_papers: false
 social: false
 
 announcements:
