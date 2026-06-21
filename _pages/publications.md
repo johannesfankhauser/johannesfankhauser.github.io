@@ -9,9 +9,9 @@ nav_order: 1
 
 {% include site-custom-style.html %}
 
-<div class="visual-band melencolia" role="img" aria-label="Durer Melencolia I background image"></div>
-
 ## Areas of Interest
+
+<div class="research-visual" role="img" aria-label="Durer Melencolia I"></div>
 
 My research interests include foundations and philosophy of quantum mechanics, foundations and philosophy of space and time, and quantum information theory.
 

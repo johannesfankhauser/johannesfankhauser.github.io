@@ -1,14 +1,14 @@
 <style>
   :root {
-    --global-theme-color: #4f9fcf;
-    --global-hover-color: #2f80b7;
-    --global-code-bg-color: rgba(79, 159, 207, 0.08);
+    --global-theme-color: #287fb8;
+    --global-hover-color: #17679d;
+    --global-code-bg-color: rgba(40, 127, 184, 0.1);
   }
 
   html[data-theme="dark"] {
-    --global-theme-color: #c76b1e;
-    --global-hover-color: #e08a32;
-    --global-code-bg-color: rgba(199, 107, 30, 0.16);
+    --global-theme-color: #f08a24;
+    --global-hover-color: #ffad4a;
+    --global-code-bg-color: rgba(240, 138, 36, 0.18);
   }
 
   .post-title,
@@ -17,35 +17,44 @@
     text-transform: capitalize;
   }
 
-  .visual-band {
-    min-height: 210px;
-    margin: 0.4rem 0 1.75rem;
+  .einstein-quote-panel {
+    min-height: 145px;
+    margin: 1.6rem 0 1.1rem;
     border-radius: 6px;
     background-position: center;
     background-size: cover;
     border: 1px solid var(--global-divider-color);
   }
 
-  .visual-band.einstein-quote {
+  .einstein-quote-panel {
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.16),
+        rgba(255, 255, 255, 0.16)
+      ),
+      url("/assets/img/einstein-quote.jpg");
+    background-position: center 52%;
+  }
+
+  .research-visual {
+    float: right;
+    width: 32%;
+    min-height: 360px;
+    margin: 0.25rem 0 1rem 1.35rem;
+    border-radius: 6px;
     background-image: linear-gradient(
         rgba(255, 255, 255, 0.08),
         rgba(255, 255, 255, 0.08)
       ),
-      url("/assets/img/einstein-quote.jpg");
-  }
-
-  .visual-band.melencolia {
-    min-height: 260px;
-    background-image: linear-gradient(
-        rgba(255, 255, 255, 0.18),
-        rgba(255, 255, 255, 0.18)
-      ),
       url("/assets/img/melencolia.jpg");
-    background-position: center 38%;
+    background-position: center 42%;
+    background-size: cover;
+    border: 1px solid var(--global-divider-color);
+    filter: grayscale(1) contrast(1.08);
   }
 
-  html[data-theme="dark"] .visual-band {
-    opacity: 0.82;
+  html[data-theme="dark"] .einstein-quote-panel,
+  html[data-theme="dark"] .research-visual {
+    opacity: 0.86;
     border-color: rgba(255, 255, 255, 0.18);
   }
 
@@ -79,13 +88,17 @@
   }
 
   @media (max-width: 575.98px) {
-    .visual-band {
-      min-height: 150px;
-      margin-bottom: 1.25rem;
+    .einstein-quote-panel {
+      min-height: 105px;
+      margin: 1.2rem 0 0.9rem;
     }
 
-    .visual-band.melencolia {
-      min-height: 190px;
+    .research-visual {
+      float: none;
+      width: 100%;
+      min-height: 230px;
+      margin: 0.2rem 0 1.1rem;
+      background-position: center 38%;
     }
   }
 </style>
