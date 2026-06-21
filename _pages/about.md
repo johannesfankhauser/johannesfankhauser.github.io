@@ -12,7 +12,7 @@ profile:
     <p>University of Innsbruck</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -38,3 +38,11 @@ I'm committed to promoting education and fostering talent. To that end, I work o
 If you are planning to explore the foundations of physics, visit the [Oxford Philosophy of Physics page](https://www.philosophy-of-physics.ox.ac.uk/) and have a look at this [list for recommended literature](https://www.hps.cam.ac.uk/students/research-guide/philosophy-physics).
 
 Download my [CV](https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLuEd/view?usp=sharing) or contact me on johannes.j.fankhauser [at] gmail [dot] com.
+
+<div class="social">
+  <div class="contact-icons">
+    <a href="https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLuEd/view?usp=sharing" title="CV" rel="external nofollow noopener" target="_blank"><i class="ai ai-cv"></i></a>
+    <a href="mailto:johannes.j.fankhauser@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://arxiv.org/search/?query=johannes+fankhauser&searchtype=all&source=header" title="arXiv" rel="external nofollow noopener" target="_blank"><i class="ai ai-arxiv"></i></a>
+  </div>
+</div>
