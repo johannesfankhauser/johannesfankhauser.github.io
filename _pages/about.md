@@ -37,8 +37,6 @@ If you are planning to explore the foundations of physics, visit the [Oxford Phi
 
 Download my [CV](https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLuEd/view?usp=sharing) or contact me on johannes.j.fankhauser [at] gmail [dot] com.
 
-<div class="einstein-quote-panel" role="img" aria-label="Einstein quote background image"></div>
-
 <div class="social">
   <div class="contact-icons">
     <a href="https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLuEd/view?usp=sharing" title="CV" rel="external nofollow noopener" target="_blank"><i class="ai ai-cv"></i></a>

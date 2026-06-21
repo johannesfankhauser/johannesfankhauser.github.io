@@ -17,24 +17,6 @@
     text-transform: capitalize;
   }
 
-  .einstein-quote-panel {
-    min-height: 145px;
-    margin: 1.6rem 0 1.1rem;
-    border-radius: 6px;
-    background-position: center;
-    background-size: cover;
-    border: 1px solid var(--global-divider-color);
-  }
-
-  .einstein-quote-panel {
-    background-image: linear-gradient(
-        rgba(255, 255, 255, 0.16),
-        rgba(255, 255, 255, 0.16)
-      ),
-      url("/assets/img/einstein-quote.jpg");
-    background-position: center 52%;
-  }
-
   .research-visual {
     float: right;
     width: 32%;
@@ -52,7 +34,6 @@
     filter: grayscale(1) contrast(1.08);
   }
 
-  html[data-theme="dark"] .einstein-quote-panel,
   html[data-theme="dark"] .research-visual {
     opacity: 0.86;
     border-color: rgba(255, 255, 255, 0.18);
@@ -88,11 +69,6 @@
   }
 
   @media (max-width: 575.98px) {
-    .einstein-quote-panel {
-      min-height: 105px;
-      margin: 1.2rem 0 0.9rem;
-    }
-
     .research-visual {
       float: none;
       width: 100%;
