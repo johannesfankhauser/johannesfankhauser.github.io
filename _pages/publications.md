@@ -1,11 +1,15 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Research interests and publications.
 nav: true
 nav_order: 1
 ---
+
+{% include site-custom-style.html %}
+
+<div class="visual-band melencolia" role="img" aria-label="Durer Melencolia I background image"></div>
 
 ## Areas of Interest
 

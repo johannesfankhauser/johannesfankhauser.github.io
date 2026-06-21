@@ -1,0 +1,91 @@
+<style>
+  :root {
+    --global-theme-color: #4f9fcf;
+    --global-hover-color: #2f80b7;
+    --global-code-bg-color: rgba(79, 159, 207, 0.08);
+  }
+
+  html[data-theme="dark"] {
+    --global-theme-color: #c76b1e;
+    --global-hover-color: #e08a32;
+    --global-code-bg-color: rgba(199, 107, 30, 0.16);
+  }
+
+  .post-title,
+  .navbar .nav-link,
+  .post h2 a {
+    text-transform: capitalize;
+  }
+
+  .visual-band {
+    min-height: 210px;
+    margin: 0.4rem 0 1.75rem;
+    border-radius: 6px;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid var(--global-divider-color);
+  }
+
+  .visual-band.einstein-quote {
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.08),
+        rgba(255, 255, 255, 0.08)
+      ),
+      url("/assets/img/einstein-quote.jpg");
+  }
+
+  .visual-band.melencolia {
+    min-height: 260px;
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.18),
+        rgba(255, 255, 255, 0.18)
+      ),
+      url("/assets/img/melencolia.jpg");
+    background-position: center 38%;
+  }
+
+  html[data-theme="dark"] .visual-band {
+    opacity: 0.82;
+    border-color: rgba(255, 255, 255, 0.18);
+  }
+
+  .publications {
+    margin-top: 1.25rem;
+  }
+
+  .publications h2.bibliography {
+    margin-top: 1.15rem;
+    margin-bottom: 0.45rem;
+    padding-top: 0.6rem;
+    font-size: 1.2rem;
+  }
+
+  .publications ol.bibliography li {
+    margin-bottom: 0.45rem;
+  }
+
+  .publications ol.bibliography li .title,
+  .publications ol.bibliography li .author,
+  .publications ol.bibliography li .periodical {
+    line-height: 1.32;
+  }
+
+  .publications ol.bibliography li .links {
+    margin-top: 0.1rem;
+  }
+
+  .publications ol.bibliography li .links a.btn {
+    padding: 0.16rem 0.65rem;
+  }
+
+  @media (max-width: 575.98px) {
+    .visual-band {
+      min-height: 150px;
+      margin-bottom: 1.25rem;
+    }
+
+    .visual-band.melencolia {
+      min-height: 190px;
+    }
+  }
+</style>
