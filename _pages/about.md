@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral researcher in foundations and philosophy of physics
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Innsbruck</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: false
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher specialising in the foundations and philosophy of physics at the [University of Innsbruck](https://delescovesgroup.com/). I received my PhD from the [University of Oxford](https://www.philosophy-of-physics.ox.ac.uk/), where I worked on the foundations of quantum theory, in particular on questions of [observability, predictability and indeterminacy](https://ora.ox.ac.uk/objects/uuid:e7c59dac-579c-4ecf-b887-3d315060d144).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my PhD, I obtained a [Master's degree in Philosophy of Physics](https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics) at Oxford and a Master's degree in Physics at [ETH Zurich](https://www.phys.ethz.ch/), where I did my undergraduate studies in physics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm committed to promoting education and fostering talent. To that end, I work on [projects](https://www.oeaw.ac.at/studienstiftung) which help intellectually talented students develop their potential.
+
+If you are planning to explore the foundations of physics, visit the [Oxford Philosophy of Physics page](https://www.philosophy-of-physics.ox.ac.uk/) and have a look at this [list for recommended literature](https://www.hps.cam.ac.uk/students/research-guide/philosophy-physics).
+
+Download my [CV](https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLuEd/view?usp=sharing) or contact me on johannes.j.fankhauser [at] gmail [dot] com.
