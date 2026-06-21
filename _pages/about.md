@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher in foundations and philosophy of physics
 
 profile:
   align: right
-  image: prof_pic.png
+  image: profile.jpg
   image_circular: false
   more_info: >
     <p>University of Innsbruck</p>
