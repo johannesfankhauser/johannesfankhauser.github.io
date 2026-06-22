@@ -27,31 +27,31 @@
   }
 
   .post-header .desc,
+  body:has(.about-name-page) article p,
   article > p {
     font-family: "Roboto Slab", Georgia, serif;
     font-weight: 300;
     line-height: 1.7;
   }
 
-  body:has(.about-name-page) .post-header::after {
+  body:has(.about-name-page) .post::before {
     content: "";
     display: block;
-    width: 100%;
-    height: 8.5rem;
-    margin: 1rem 0 1.45rem;
-    border-radius: 6px;
+    width: 100vw;
+    height: 9rem;
+    margin: 0 calc(50% - 50vw) 1.55rem;
     background-image: linear-gradient(
         rgba(255, 255, 255, 0.1),
         rgba(255, 255, 255, 0.1)
       ),
       url("/assets/img/melencolia.jpg");
     background-position: center 29%;
-    background-size: 100% auto;
-    border: 1px solid var(--global-divider-color);
+    background-size: cover;
+    border-bottom: 1px solid var(--global-divider-color);
     filter: grayscale(1) contrast(1.05);
   }
 
-  html[data-theme="dark"] body:has(.about-name-page) .post-header::after {
+  html[data-theme="dark"] body:has(.about-name-page) .post::before {
     opacity: 0.82;
     border-color: rgba(255, 255, 255, 0.18);
   }
@@ -172,10 +172,9 @@
   }
 
   @media (max-width: 575.98px) {
-    body:has(.about-name-page) .post-header::after {
+    body:has(.about-name-page) .post::before {
       height: 6rem;
-      margin: 0.9rem 0 1.2rem;
-      background-size: cover;
+      margin-bottom: 1.2rem;
       background-position: center 30%;
     }
 
