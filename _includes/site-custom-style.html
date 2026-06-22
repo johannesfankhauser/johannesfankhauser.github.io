@@ -78,13 +78,20 @@
   }
 
   .publications ol.bibliography li .links a.btn {
-    padding: 0.16rem 0.65rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 5.6rem;
+    min-height: 1.72rem;
+    box-sizing: border-box;
+    padding: 0.16rem 0.45rem;
+    font-size: 0.875rem;
+    line-height: 1.2;
   }
 
   .publications ol.bibliography li .links a.abstract,
   .publications ol.bibliography li .links a.doi,
   .publications ol.bibliography li .links a.arxiv {
-    min-width: 5.2rem;
     text-align: center;
   }
 
@@ -98,7 +105,8 @@
 
   .publications ol.bibliography li .links a.abstract::after {
     content: "Abstract";
-    font-size: 0.875rem;
+    font: inherit;
+    line-height: inherit;
   }
 
   @media (max-width: 575.98px) {
