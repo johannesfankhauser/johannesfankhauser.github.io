@@ -30,3 +30,8 @@ For a complete and up-to-date list of my papers, see my [arXiv page](https://arx
 {% bibliography %}
 
 </div>
+
+<figure class="research-quote">
+  <blockquote>I have no special talents. I am only passionately curious.</blockquote>
+  <figcaption>Albert Einstein</figcaption>
+</figure>
