@@ -8,8 +8,6 @@ profile:
   align: right
   image: profile.jpg
   image_circular: false
-  more_info: >
-    <p>University of Innsbruck</p>
 
 selected_papers: false
 social: false
