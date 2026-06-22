@@ -23,6 +23,11 @@
     text-transform: capitalize;
   }
 
+  .post-title,
+  .post-title span {
+    font-weight: 700 !important;
+  }
+
   .research-visual {
     float: right;
     width: 32%;
@@ -50,10 +55,11 @@
   }
 
   .publications h2.bibliography {
-    margin-top: 1.15rem;
-    margin-bottom: 0.45rem;
-    padding-top: 0.6rem;
-    font-size: 1.2rem;
+    color: color-mix(in srgb, var(--global-text-color) 72%, transparent);
+    margin-top: 0.85rem;
+    margin-bottom: 0.2rem;
+    padding-top: 0.32rem;
+    font-size: 1.35rem;
   }
 
   .publications ol.bibliography li {
@@ -72,6 +78,15 @@
 
   .publications ol.bibliography li .links a.btn {
     padding: 0.16rem 0.65rem;
+  }
+
+  .publications ol.bibliography li .links a.abstract {
+    font-size: 0;
+  }
+
+  .publications ol.bibliography li .links a.abstract::after {
+    content: "Abstract";
+    font-size: 0.875rem;
   }
 
   @media (max-width: 575.98px) {
