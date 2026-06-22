@@ -11,8 +11,6 @@ nav_order: 1
 
 ## Areas of Interest
 
-<div class="research-visual" role="img" aria-label="Durer Melencolia I"></div>
-
 My research interests include foundations and philosophy of quantum mechanics, foundations and philosophy of space and time, and quantum information theory.
 
 At the centre of my research is the question of what quantum theory tells us about the nature of reality, and the intertwined relationship between knowledge and reality: how what we can know constrains what we can say about what is.
