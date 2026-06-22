@@ -110,8 +110,13 @@
 
   .publications ol.bibliography li .links a.abstract::after {
     content: "Abstract";
+    color: var(--global-theme-color);
     font: inherit;
     line-height: inherit;
+  }
+
+  .publications ol.bibliography li .links a.abstract:hover::after {
+    color: var(--global-hover-color);
   }
 
   @media (max-width: 575.98px) {
