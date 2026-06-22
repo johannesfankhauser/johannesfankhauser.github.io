@@ -44,3 +44,8 @@ Download my [CV](https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLu
     <a href="https://arxiv.org/search/?query=johannes+fankhauser&searchtype=all&source=header" title="arXiv" rel="external nofollow noopener" target="_blank"><i class="ai ai-arxiv"></i></a>
   </div>
 </div>
+
+<figure class="research-quote">
+  <blockquote>I have no special talents. I am only passionately curious.</blockquote>
+  <figcaption>Albert Einstein</figcaption>
+</figure>
