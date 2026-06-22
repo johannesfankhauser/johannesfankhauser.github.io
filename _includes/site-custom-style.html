@@ -51,9 +51,10 @@
   .publications h2.bibliography {
     color: color-mix(in srgb, var(--global-text-color) 72%, transparent);
     margin-top: 0.25rem;
-    margin-bottom: 0.05rem;
+    margin-bottom: -0.25rem;
     padding-top: 0.1rem;
     font-size: 1.35rem;
+    line-height: 1.15;
   }
 
   .publications ol.bibliography {
@@ -67,14 +68,18 @@
     padding-bottom: 0.05rem;
   }
 
+  .publications ol.bibliography li:first-child {
+    margin-top: -0.35rem;
+  }
+
   .publications ol.bibliography li .title,
   .publications ol.bibliography li .author,
   .publications ol.bibliography li .periodical {
-    line-height: 1.2;
+    line-height: 1.32;
   }
 
   .publications ol.bibliography li .links {
-    margin-top: 0.04rem;
+    margin-top: 0.1rem;
   }
 
   .publications ol.bibliography li .links a.btn {
