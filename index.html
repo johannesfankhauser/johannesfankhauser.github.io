@@ -33,6 +33,9 @@
   }
 
   .post-header .desc,
+  .post-header .description,
+  .post-header .post-description,
+  .post-header > p,
   body:has(.about-name-page) article p,
   article > p {
     font-family: "Roboto Slab", Georgia, serif;
@@ -40,7 +43,10 @@
     line-height: 1.7;
   }
 
-  .post-header .desc {
+  .post-header .desc,
+  .post-header .description,
+  .post-header .post-description,
+  .post-header > p {
     color: color-mix(in srgb, var(--global-text-color) 72%, transparent);
     font-style: italic;
   }
