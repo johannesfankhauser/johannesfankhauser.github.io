@@ -39,13 +39,13 @@
     display: block;
     width: 100vw;
     height: 9rem;
-    margin: 0 calc(50% - 50vw) 1.55rem;
+    margin: -3rem calc(50% - 50vw) 1.55rem;
     background-image: linear-gradient(
         rgba(255, 255, 255, 0.1),
         rgba(255, 255, 255, 0.1)
       ),
-      url("/assets/img/melencolia.jpg");
-    background-position: center 29%;
+      url("/assets/img/melencolia-banner.jpg");
+    background-position: center;
     background-size: cover;
     border-bottom: 1px solid var(--global-divider-color);
     filter: grayscale(1) contrast(1.05);
@@ -174,8 +174,9 @@
   @media (max-width: 575.98px) {
     body:has(.about-name-page) .post::before {
       height: 6rem;
+      margin-top: -3rem;
       margin-bottom: 1.2rem;
-      background-position: center 30%;
+      background-position: center;
     }
 
     .research-quote {
