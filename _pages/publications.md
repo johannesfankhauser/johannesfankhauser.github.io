@@ -11,13 +11,15 @@ nav_order: 1
 
 ## Areas of Interest
 
-My research interests include foundations and philosophy of quantum mechanics, foundations and philosophy of space and time, and quantum information theory.
+My research interests lie in the foundations and philosophy of quantum mechanics, quantum information theory, and the foundations and philosophy of space and time.
 
-At the centre of my research is the question of what quantum theory tells us about the nature of reality, and the intertwined relationship between knowledge and reality: how what we can know constrains what we can say about what is.
+The overarching aim of my research is to understand what quantum theory tells us about the nature of reality and about the intertwined relationship between knowledge and reality: how what we can know constrains what we can say about what is.
 
-Currently, my focus lies in formalising the inseparability of "subject" and "object" in physical theories by modelling observers as physical systems with information-gathering abilities embedded in the theory, and probing how this manifests itself as measurement uncertainty in classical mechanics, quantum mechanics, and intermediate theories like Spekkens' toy model.
+During my doctoral research, I investigated foundational questions concerning quantum paradoxes, indeterminacy, observability, and predictability in quantum and post-quantum theories. This included work on quantum uncertainty, pilot-wave theory, delayed-choice quantum eraser experiments, post-selection, and weak measurements. A central question was whether quantum uncertainty is fundamental, or whether post-quantum theories could offer greater predictive power while respecting operational constraints such as no-signalling. I have also worked on foundational aspects of spacetime physics, particularly the interpretation of gravitational redshift and the role of special relativity in the Pound-Rebka experiment.
 
-In particular, this includes an interest in the possibility of an observer-participatory and relational understanding of quantum reality without adopting an associated anti-realist stance, as well as developing a better understanding of the nature of agency in physics.
+In my first postdoctoral project, I investigated how epistemic horizons can emerge in deterministic theories and resemble the uncertainty principle of quantum mechanics. By modelling information-gathering agents as physical systems embedded within a theory, this work shows how deterministic dynamics can nevertheless impose fundamental limits on knowledge and prediction. It has opened a broader research programme centred on agency in physics and on how the physical situation of the observer shapes what can be known.
+
+My current research formalises the inseparability of subject and object in physical theories and examines how it gives rise to measurement uncertainty in classical mechanics, quantum mechanics, and intermediate theories such as Spekkens' toy model. More broadly, I aim to develop a nuanced account of agents and observers in physics, including the possibility of an observer-participatory understanding of quantum reality that does not require an anti-realist interpretation.
 
 ## Papers
 
