@@ -333,12 +333,15 @@ nav_order: 2
 
 <section class="cv-section cv-biography" aria-labelledby="biography-heading">
   <h2 id="biography-heading">Beyond Physics</h2>
-  <p class="cv-biography-lead">I grew up in the Zillertal in the Austrian Alps. The mountains, music, and education have remained important parts of my life alongside physics and philosophy.</p>
+  <p class="cv-biography-lead">I grew up in the Zillertal in the Austrian Alps. Outside physics and philosophy, much of my time is devoted to music, the mountains, and education.</p>
 
   <div class="cv-pursuits">
     <div>
       <h3>Music</h3>
-      <p>I play the piano and organ and am especially drawn to the melancholy works of the late Renaissance and early Baroque, including music by Bach, Pergolesi, Orlando di Lasso, Schütz, and Handel. I have been making music since I was ten and formerly played keyboard in a rock-pop band.</p>
+      <div class="cv-music-content">
+        <img src="/assets/img/bach-grimace.jpg" alt="Portrait of Johann Sebastian Bach making a playful grimace" loading="lazy">
+        <p>I play the piano and organ and am especially drawn to the melancholy works of the late Renaissance and early Baroque, including music by Bach, Pergolesi, Orlando di Lasso, Schütz, and Handel. I have been making music since I was ten and formerly played keyboard in a rock-pop band.</p>
+      </div>
     </div>
     <div>
       <h3>Mountains</h3>

@@ -427,6 +427,24 @@
     margin: 0.55rem 0 0;
   }
 
+  .cv-music-content {
+    display: grid;
+    grid-template-columns: 7.5rem minmax(0, 1fr);
+    gap: 1rem;
+    align-items: start;
+    margin-top: 0.55rem;
+  }
+
+  .cv-music-content img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .cv-music-content p {
+    margin-top: 0;
+  }
+
   .cv-quote {
     max-width: 39rem;
     margin: 2.6rem auto 0;
@@ -495,6 +513,11 @@
     .cv-pursuits {
       grid-template-columns: 1fr;
       gap: 1.5rem;
+    }
+
+    .cv-music-content {
+      grid-template-columns: 6.5rem minmax(0, 1fr);
+      gap: 0.85rem;
     }
 
     .cv-panorama {
