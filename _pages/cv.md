@@ -125,7 +125,7 @@ nav_order: 2
     <div>
       <h3>Consultant</h3>
       <p class="cv-institution"><a href="https://www.oeaw.ac.at/studienstiftung/home" target="_blank" rel="noopener">Austrian Study Foundation</a> · Austrian Academy of Sciences · Vienna</p>
-      <p>10% FTE appointment; co-initiator of the <a href="https://www.oeaw.ac.at/studienstiftung/home" target="_blank" rel="noopener">Austrian Study Foundation</a>.</p>
+      <p>10% FTE appointment; co-initiator of the Austrian Study Foundation.</p>
     </div>
   </div>
 
