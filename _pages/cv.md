@@ -305,7 +305,7 @@ nav_order: 2
   <div class="cv-talk-year">
     <h3>2017</h3>
     <ul>
-      <li><span>October</span> <a href="https://www.studienstiftung.ch/" target="_blank" rel="noopener">Swiss Study Foundation</a>, Interdisciplinary Study Day, Fribourg. Talk: <em>Philosophy of Physics and Quantum Weirdness</em>.</li>
+      <li><span>October</span> Swiss Study Foundation, Interdisciplinary Study Day, Fribourg. Talk: <em>Philosophy of Physics and Quantum Weirdness</em>.</li>
       <li><span>July</span> 5th International Summer School in Philosophy of Physics, Black Forest, Saig. Talk: <em>Gravitational Redshift, Inertia, and the Role of Charge</em>.</li>
       <li><span>May</span> Philosophy of Physics Graduate Seminar, University of Oxford. Talk: <em>Gravitational Redshift and the Role of Charge</em>.</li>
       <li><span>March</span> <em>The Foundation of Reality: Fundamentality, Space and Time</em>, University of Oxford.</li>
