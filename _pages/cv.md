@@ -47,8 +47,8 @@ nav_order: 2
     <div class="cv-date">2018–2023</div>
     <div>
       <h3>PhD in Quantum Foundations</h3>
-      <p class="cv-institution">University of Oxford · Faculty of Philosophy · St Edmund Hall</p>
-      <p><em>Observability and Predictability in Quantum and Post-Quantum Physics</em><br>
+      <p class="cv-institution"><a href="https://www.philosophy.ox.ac.uk/home" target="_blank" rel="noopener">University of Oxford · Faculty of Philosophy</a> · St Edmund Hall</p>
+      <p><a href="https://ora.ox.ac.uk/objects/uuid:e7c59dac-579c-4ecf-b887-3d315060d144" target="_blank" rel="noopener"><em>Observability and Predictability in Quantum and Post-Quantum Physics</em></a><br>
       Advisors: Christopher G. Timpson and Owen J. E. Maroney.<br>
       Examiners: Jonathan Barrett and Guido Bacciagaluppi.</p>
     </div>
@@ -58,7 +58,7 @@ nav_order: 2
     <div class="cv-date">2016–2017</div>
     <div>
       <h3>MSt in Philosophy of Physics</h3>
-      <p class="cv-institution">University of Oxford · Faculty of Philosophy · Magdalen College</p>
+      <p class="cv-institution"><a href="https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics" target="_blank" rel="noopener">University of Oxford · Faculty of Philosophy</a> · Magdalen College</p>
       <p>Highest essay grade among MSt students.</p>
     </div>
   </div>
@@ -67,7 +67,7 @@ nav_order: 2
     <div class="cv-date">2015–2018</div>
     <div>
       <h3>MSc in Physics</h3>
-      <p class="cv-institution">ETH Zurich · Department of Physics</p>
+      <p class="cv-institution"><a href="https://www.ethz.ch" target="_blank" rel="noopener">ETH Zurich · Department of Physics</a></p>
       <p>Top 10% of cohort. Master's thesis: <em>Is the World Just Wavefunction? Determinism and the Metaphysics of Hidden Variables in Quantum Mechanics</em>. Advisor: Renato Renner.</p>
       <p>Semester thesis: <em>Brains, Incompleteness and Objective Wave Collapse</em>. Advisors: Renato Renner and Norman Sieroka.</p>
     </div>
@@ -77,9 +77,9 @@ nav_order: 2
     <div class="cv-date">2012–2015</div>
     <div>
       <h3>BSc in Physics</h3>
-      <p class="cv-institution">ETH Zurich · Department of Physics</p>
-      <p>Top 5% of cohort. Semester thesis: <em>Design, Simulation and Measurement of a Tuneable Transmon Qubit in 3D-Cavity</em>. Advisors: Andreas Wallraff and Philipp Kurpiers, Quantum Device Lab.</p>
-      <p>Fifth semester at KTH Stockholm through the Swiss-European Mobility Programme.</p>
+      <p class="cv-institution"><a href="https://www.ethz.ch" target="_blank" rel="noopener">ETH Zurich · Department of Physics</a></p>
+      <p>Top 5% of cohort. Semester thesis: <em>Design, Simulation and Measurement of a Tuneable Transmon Qubit in 3D-Cavity</em>. Advisors: Andreas Wallraff and Philipp Kurpiers, <a href="https://qudev.phys.ethz.ch/" target="_blank" rel="noopener">Quantum Device Lab</a>.</p>
+      <p>Fifth semester at <a href="https://www.kth.se/en" target="_blank" rel="noopener">KTH Stockholm</a> through the Swiss-European Mobility Programme.</p>
     </div>
   </div>
 
@@ -108,7 +108,7 @@ nav_order: 2
     <div class="cv-date">Mar. 2023–Dec. 2024</div>
     <div>
       <h3>Postdoctoral Researcher</h3>
-      <p class="cv-institution">Mathematical Physics Group · Institute for Theoretical Physics · University of Innsbruck</p>
+      <p class="cv-institution"><a href="https://delescovesgroup.com/" target="_blank" rel="noopener">Mathematical Physics Group</a> · Institute for Theoretical Physics · University of Innsbruck</p>
     </div>
   </div>
 
@@ -124,8 +124,8 @@ nav_order: 2
     <div class="cv-date">2019–present</div>
     <div>
       <h3>Consultant</h3>
-      <p class="cv-institution">Austrian Study Foundation · Austrian Academy of Sciences · Vienna</p>
-      <p>10% FTE appointment; co-initiator of the Austrian Study Foundation.</p>
+      <p class="cv-institution"><a href="https://www.oeaw.ac.at/studienstiftung/home" target="_blank" rel="noopener">Austrian Study Foundation</a> · Austrian Academy of Sciences · Vienna</p>
+      <p>10% FTE appointment; co-initiator of the <a href="https://www.oeaw.ac.at/studienstiftung/home" target="_blank" rel="noopener">Austrian Study Foundation</a>.</p>
     </div>
   </div>
 
@@ -195,12 +195,12 @@ nav_order: 2
 <section class="cv-section" id="activities" aria-labelledby="activities-heading">
   <h2 id="activities-heading">Professional Service & Outreach</h2>
   <ul class="cv-activity-list">
-    <li><strong>Member</strong> of the Basic Research Community for Physics (BRCP), since 2026.</li>
-    <li><strong>Fellow</strong> of the Swiss Study Foundation, 2015–2023.</li>
-    <li><strong>Tutor in physics for gifted pupils</strong>, organising annual summer academies on “quantum physics at your fingertips” and courses for A-level students through Brain Train, Initiative Begabung, since 2020.</li>
+    <li><strong>Member</strong> of the <a href="https://basic-research.org/" target="_blank" rel="noopener">Basic Research Community for Physics (BRCP)</a>, since 2026.</li>
+    <li><strong>Fellow</strong> of the <a href="https://www.studienstiftung.ch/" target="_blank" rel="noopener">Swiss Study Foundation</a>, 2015–2023.</li>
+    <li><strong>Tutor in physics for gifted pupils</strong>, organising annual summer academies on “quantum physics at your fingertips” and courses for A-level students through Brain Train, <a href="https://www.initiative-begabung.eu/" target="_blank" rel="noopener">Initiative Begabung</a>, since 2020.</li>
     <li><strong>Referee</strong> for <em>Foundations of Physics</em>, <em>Quantum</em>, <em>Philosophy of Science</em>, <em>Journal for General Philosophy of Science</em>, and <em>Studies in History and Philosophy of Science</em>, among others, since 2020.</li>
-    <li><strong>Organiser</strong> of workshops on interdisciplinary and philosophical topics for the Swiss Study Foundation in Zurich, 2017–2022.</li>
-    <li><strong>Co-initiator</strong> of the Austrian Study Foundation.</li>
+    <li><strong>Organiser</strong> of workshops on interdisciplinary and philosophical topics for the <a href="https://www.studienstiftung.ch/" target="_blank" rel="noopener">Swiss Study Foundation</a> in Zurich, 2017–2022.</li>
+    <li><strong>Co-initiator</strong> of the <a href="https://www.oeaw.ac.at/studienstiftung/home" target="_blank" rel="noopener">Austrian Study Foundation</a>.</li>
   </ul>
 </section>
 
@@ -212,7 +212,7 @@ nav_order: 2
     <ul>
       <li><span>May</span> Conceptual Foundations of QFT, Vienna, Austria.</li>
       <li><span>April</span> <a href="https://www.cresci.art" target="_blank" rel="noopener"><em>A Radical Experiment | Between Art and Science</em></a>, Museo delle Arti Carrara, Italy. Invited scientist.</li>
-      <li><span>April</span> BRCP Annual Meeting, Vienna, Austria.</li>
+      <li><span>April</span> <a href="https://basic-research.org/" target="_blank" rel="noopener">BRCP Annual Meeting</a>, Vienna, Austria.</li>
     </ul>
   </div>
 
@@ -249,10 +249,10 @@ nav_order: 2
       <li><span>September</span> Rethinking the Foundations of Physics, Center for Advanced Studies, LMU Munich. Talk: <em>Epistemic Boundaries and Quantum Indeterminacy: What Local Observers Can (Not) Predict</em>.</li>
       <li><span>August</span> <em>The Quantum Reconstruction Program and Beyond</em>, University of Graz. Talk: <em>Quantum Uncertainty as a Fundamental Limit to Nature's Predictability</em>.</li>
       <li><span>July</span> 21st European Conference on Foundations of Physics, University of Bristol. Presentation: <em>Unravelling Quantum Indeterminacy: What Local Observers Can (Not) Predict</em>.</li>
-      <li><span>May</span> Philosophy of Physics Seminar, University of Oxford. Talk: <a href="https://www.youtube.com/watch?v=prefg5grPjk&t=2471s" target="_blank" rel="noopener"><em>Quantum Uncertainty as a Fundamental Limit to Nature's Predictability</em></a>.</li>
+      <li><span>May</span> Philosophy of Physics Seminar, University of Oxford. Talk: <em>Quantum Uncertainty as a Fundamental Limit to Nature's Predictability</em>. <a class="cv-media-link" href="https://www.youtube.com/watch?v=prefg5grPjk&t=2471s" target="_blank" rel="noopener">Video</a></li>
       <li><span>May</span> New Directions in the Foundations of Physics, Viterbo, Italy.</li>
       <li><span>March</span> Foundations of Observational, Classical and Semi-Classical Gravitational Physics and The Problem of Agency and Laws of Nature, LMU Munich.</li>
-      <li><span>February</span> <em>It's About Time</em> podcast. Talk: <em>Quantum Uncertainty and Empirical Completeness</em>.</li>
+      <li><span>February</span> <em>It's About Time</em> podcast. Talk: <em>Quantum Uncertainty and Empirical Completeness</em>. <a class="cv-media-link" href="https://www.clubhouse.com/room/PYzQ6G4E" target="_blank" rel="noopener">Listen</a></li>
       <li><span>January</span> De las Cuevas Group, University of Innsbruck. Talk: <em>Quantum Empirical Completeness</em>.</li>
     </ul>
   </div>
@@ -305,7 +305,7 @@ nav_order: 2
   <div class="cv-talk-year">
     <h3>2017</h3>
     <ul>
-      <li><span>October</span> Swiss Study Foundation, Interdisciplinary Study Day, Fribourg. Talk: <em>Philosophy of Physics and Quantum Weirdness</em>.</li>
+      <li><span>October</span> <a href="https://www.studienstiftung.ch/" target="_blank" rel="noopener">Swiss Study Foundation</a>, Interdisciplinary Study Day, Fribourg. Talk: <em>Philosophy of Physics and Quantum Weirdness</em>.</li>
       <li><span>July</span> 5th International Summer School in Philosophy of Physics, Black Forest, Saig. Talk: <em>Gravitational Redshift, Inertia, and the Role of Charge</em>.</li>
       <li><span>May</span> Philosophy of Physics Graduate Seminar, University of Oxford. Talk: <em>Gravitational Redshift and the Role of Charge</em>.</li>
       <li><span>March</span> <em>The Foundation of Reality: Fundamentality, Space and Time</em>, University of Oxford.</li>
@@ -345,7 +345,7 @@ nav_order: 2
     </div>
     <div>
       <h3>Mountains</h3>
-      <p>I enjoy gliding in the Austrian Alps where I grew up. Hiking and running are other ways in which I spend time outdoors and return to the mountains.</p>
+      <p>I enjoy gliding in the Austrian Alps. Hiking and running are other ways in which I spend time outdoors and return to the mountains.</p>
     </div>
   </div>
 
