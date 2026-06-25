@@ -61,9 +61,10 @@
         rgba(255, 255, 255, 0.1),
         rgba(255, 255, 255, 0.1)
       ),
-      url("/assets/img/melencolia-banner.jpg");
-    background-position: center;
-    background-size: cover;
+      url("/assets/img/melencolia-banner-repeat.jpg");
+    background-position: center, center;
+    background-repeat: no-repeat, repeat-x;
+    background-size: auto, 70% 100%;
     border-bottom: 1px solid var(--global-divider-color);
     filter: grayscale(1) contrast(1.05);
   }
@@ -193,7 +194,7 @@
       height: 10rem;
       margin-top: -3rem;
       margin-bottom: 1.2rem;
-      background-position: center;
+      background-size: auto, 84% 100%;
     }
 
     .research-quote {
