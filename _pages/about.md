@@ -27,7 +27,7 @@ latest_posts:
 {% include site-custom-style.html %}
 </div>
 
-I am a postdoctoral researcher specialising in the foundations and philosophy of physics at the [University of Innsbruck](https://delescovesgroup.com/). I received my PhD from the [University of Oxford](https://www.philosophy-of-physics.ox.ac.uk/), where I worked on the foundations of quantum theory, in particular on questions of [observability, predictability and indeterminacy](https://ora.ox.ac.uk/objects/uuid:e7c59dac-579c-4ecf-b887-3d315060d144).
+I am a postdoctoral researcher specialising in the foundations and philosophy of physics at the [University of Innsbruck](https://www.uibk.ac.at/en/th-physik/qic-group/). I received my PhD from the [University of Oxford](https://www.philosophy-of-physics.ox.ac.uk/), where I worked on the foundations of quantum theory, in particular on questions of [observability, predictability and indeterminacy](https://ora.ox.ac.uk/objects/uuid:e7c59dac-579c-4ecf-b887-3d315060d144).
 
 Prior to my PhD, I obtained a [Master's degree in Philosophy of Physics](https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics) at Oxford and a Master's degree in Physics at [ETH Zurich](https://www.phys.ethz.ch/), where I did my undergraduate studies in physics.
 
