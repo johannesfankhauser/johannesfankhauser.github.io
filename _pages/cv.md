@@ -212,7 +212,7 @@ nav_order: 2
     <ul>
       <li><span>May</span> Conceptual Foundations of QFT, Vienna, Austria.</li>
       <li><span>April</span> <a href="https://www.cresci.art" target="_blank" rel="noopener"><em>A Radical Experiment | Between Art and Science</em></a>, Museo delle Arti Carrara, Italy. Invited scientist.</li>
-      <li><span>April</span> <a href="https://basic-research.org/" target="_blank" rel="noopener">BRCP Annual Meeting</a>, Vienna, Austria.</li>
+      <li><span>April</span> BRCP Annual Meeting, Vienna, Austria.</li>
     </ul>
   </div>
 
