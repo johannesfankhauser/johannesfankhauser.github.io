@@ -31,7 +31,7 @@ nav_order: 2
   <h2 id="details-heading">Personal Details</h2>
   <dl>
     <div><dt>Name</dt><dd>Johannes Fankhauser</dd></div>
-    <div><dt>Date of birth</dt><dd>11 December 1992</dd></div>
+    <div><dt>Date of birth</dt><dd>11 December</dd></div>
     <div><dt>Nationality</dt><dd>Austrian</dd></div>
     <div><dt>Affiliation</dt><dd>Institute for Theoretical Physics, University of Innsbruck<br>Technikerstraße 21a, 6020 Innsbruck, Austria</dd></div>
     <div><dt>Email</dt><dd><a href="mailto:johannes.j.fankhauser@gmail.com">johannes.j.fankhauser@gmail.com</a></dd></div>
