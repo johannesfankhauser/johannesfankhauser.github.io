@@ -35,7 +35,7 @@ nav_order: 2
     <div><dt>Nationality</dt><dd>Austrian</dd></div>
     <div><dt>Affiliation</dt><dd>Institute for Theoretical Physics, University of Innsbruck<br>Technikerstraße 21a, 6020 Innsbruck, Austria</dd></div>
     <div><dt>Email</dt><dd><a href="mailto:johannes.j.fankhauser@gmail.com">johannes.j.fankhauser@gmail.com</a></dd></div>
-    <div><dt>Website</dt><dd><a href="https://www.johannesfankhauser.com">johannesfankhauser.com</a></dd></div>
+    <div><dt>Website</dt><dd><a href="https://www.johannesfankhauser.net">johannesfankhauser.net</a></dd></div>
     <div><dt>ORCID</dt><dd><a href="https://orcid.org/0000-0001-8973-0373" target="_blank" rel="noopener">0000-0001-8973-0373</a></dd></div>
   </dl>
 </section>
