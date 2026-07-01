@@ -12,7 +12,7 @@ nav_order: 2
 <div class="cv-page">
 
 <div class="cv-intro">
-  <a class="cv-download" href="/assets/pdf/johannes-fankhauser-cv.pdf" target="_blank" rel="noopener">
+  <a class="cv-download" href="https://drive.google.com/file/d/14KdGsY5TDDWxMzYnQjYag4Gfic0SLuEd/view?usp=sharing" target="_blank" rel="noopener">
     <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
     Download CV
   </a>
