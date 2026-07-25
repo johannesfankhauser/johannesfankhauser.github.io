@@ -7,12 +7,8 @@ tags: [academic-life, education, reading]
 categories: [reading-notes]
 ---
 
-Erik Hoel's essay [John von Neumann Shot Lightning From His Arse](https://www.theintrinsicperspective.com/p/john-von-neumann-shot-lightning-from) is partly a myth-checking exercise and partly a reflection on how stories about genius get used. Von Neumann was plainly extraordinary; the interesting question is what follows from that fact, and what does not.
+{% include site-custom-style.html %}
 
-I find this useful because anecdotes about exceptional people often become too clean. They are used to support broad claims about innate ability, education, culture, discipline, or social environment, while the historical person disappears behind the lesson one wants to draw.
-
-For education, the more productive question is not whether genius is real. It is how talent, training, opportunity, taste, ambition, and institutional context interact. Myths of effortless brilliance can be demoralising because they hide the ecology of development: teachers, books, conversations, expectations, and the concrete habits through which ability becomes work.
-
-There is also a lesson for intellectual humility. Even great minds are not magic explanations. They are people situated in traditions, collaborations, rivalries, and accidents of timing.
+Erik Hoel's essay is a useful check on overly clean myths of genius and on the way anecdotes about exceptional minds are used to support broad claims about talent and education.
 
 Source: Erik Hoel, [John von Neumann Shot Lightning From His Arse](https://www.theintrinsicperspective.com/p/john-von-neumann-shot-lightning-from).
