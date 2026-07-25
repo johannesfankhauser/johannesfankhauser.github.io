@@ -32,8 +32,8 @@ nav_order: 3
       <p>Robert Spekkens on clarity, selection, and scientific speaking as a craft.</p>
     </li>
     <li class="notes-entry">
-      <h2><a href="https://www.penguinrandomhouse.com/books/308737/finding-your-element-by-sir-ken-robinson-phd-with-lou-aronica/" target="_blank" rel="noopener">Finding Your Element</a></h2>
-      <p>Ken Robinson on talent, passion, education, and finding work that fits.</p>
+      <h2><a href="https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=en" target="_blank" rel="noopener">Creativity and Finding One's Element</a></h2>
+      <p>Ken Robinson on education, creativity, and finding work that fits.</p>
     </li>
   </ul>
 </div>
