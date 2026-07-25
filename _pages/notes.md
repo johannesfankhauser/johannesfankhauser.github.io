@@ -12,14 +12,6 @@ nav_order: 3
 <div class="notes-page">
   <ul class="notes-list">
     <li class="notes-entry">
-      <h2><a href="https://pirsa.org/22100109" target="_blank" rel="noopener">Giving a Great Talk</a></h2>
-      <p>Robert Spekkens on clarity, selection, and scientific speaking as a craft.</p>
-    </li>
-    <li class="notes-entry">
-      <h2><a href="https://www.penguinrandomhouse.com/books/308737/finding-your-element-by-sir-ken-robinson-phd-with-lou-aronica/" target="_blank" rel="noopener">Finding Your Element</a></h2>
-      <p>Ken Robinson on talent, passion, education, and finding work that fits.</p>
-    </li>
-    <li class="notes-entry">
       <h2><a href="https://www.theintrinsicperspective.com/p/john-von-neumann-shot-lightning-from" target="_blank" rel="noopener">Von Neumann and Myths of Genius</a></h2>
       <p>Erik Hoel on genius, education, anecdotes, and the stories we tell about exceptional minds.</p>
     </li>
@@ -34,6 +26,14 @@ nav_order: 3
     <li class="notes-entry">
       <h2><a href="https://terrytao.wordpress.com/career-advice/enjoy-your-work/" target="_blank" rel="noopener">On Enjoying One's Work</a></h2>
       <p>Terence Tao on motivation, satisfaction, and the everyday texture of serious intellectual work.</p>
+    </li>
+    <li class="notes-entry">
+      <h2><a href="https://pirsa.org/22100109" target="_blank" rel="noopener">Giving a Great Talk</a></h2>
+      <p>Robert Spekkens on clarity, selection, and scientific speaking as a craft.</p>
+    </li>
+    <li class="notes-entry">
+      <h2><a href="https://www.penguinrandomhouse.com/books/308737/finding-your-element-by-sir-ken-robinson-phd-with-lou-aronica/" target="_blank" rel="noopener">Finding Your Element</a></h2>
+      <p>Ken Robinson on talent, passion, education, and finding work that fits.</p>
     </li>
   </ul>
 </div>
