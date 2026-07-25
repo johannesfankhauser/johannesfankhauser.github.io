@@ -17,6 +17,8 @@ pagination:
     after: 3
 ---
 
+{% include site-custom-style.html %}
+
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
