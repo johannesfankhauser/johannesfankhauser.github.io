@@ -73,6 +73,22 @@
     font-style: italic;
   }
 
+  body:has(.notes-page) .post-header .post-title {
+    font-family: Roboto, Arial, sans-serif;
+  }
+
+  body:has(.notes-page) .post-header .desc,
+  body:has(.notes-page) .post-header .description,
+  body:has(.notes-page) .post-header .post-description,
+  body:has(.notes-page) .post-header > p {
+    color: color-mix(in srgb, var(--global-text-color) 72%, transparent);
+    font-family: "Roboto Slab", Georgia, serif;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.55;
+  }
+
   body:has(.about-name-page) .post::before {
     content: "";
     display: block;
@@ -219,13 +235,13 @@
 
   .notes-list {
     list-style: none;
-    margin: 0.2rem 0 0;
+    margin: 0.1rem 0 0;
     padding: 0;
   }
 
   .notes-entry {
     border-bottom: 1px solid color-mix(in srgb, var(--global-divider-color) 72%, transparent);
-    padding: 0.75rem 0 0.7rem;
+    padding: 0.68rem 0 0.62rem;
   }
 
   .notes-entry:first-child {
@@ -233,9 +249,9 @@
   }
 
   .notes-entry h2 {
-    margin: 0 0 0.18rem;
+    margin: 0 0 0.12rem;
     font-family: Roboto, Arial, sans-serif;
-    font-size: 1.05rem;
+    font-size: 1.02rem;
     font-weight: 500;
     line-height: 1.35;
   }
@@ -252,28 +268,8 @@
   }
 
   .notes-entry p {
-    margin: 0 0 0.3rem;
+    margin: 0;
     color: color-mix(in srgb, var(--global-text-color) 78%, transparent);
-  }
-
-  .notes-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 0.55rem;
-    align-items: center;
-    color: color-mix(in srgb, var(--global-text-color) 58%, transparent);
-    font-family: Roboto, Arial, sans-serif;
-    font-size: 0.82rem;
-  }
-
-  .notes-tags {
-    display: inline-flex;
-    flex-wrap: wrap;
-    gap: 0.3rem;
-  }
-
-  .notes-tags span {
-    color: var(--global-theme-color);
   }
 
   .cv-page {

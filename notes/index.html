@@ -73,6 +73,22 @@
     font-style: italic;
   }
 
+  body:has(.notes-page) .post-header .post-title {
+    font-family: Roboto, Arial, sans-serif;
+  }
+
+  body:has(.notes-page) .post-header .desc,
+  body:has(.notes-page) .post-header .description,
+  body:has(.notes-page) .post-header .post-description,
+  body:has(.notes-page) .post-header > p {
+    color: color-mix(in srgb, var(--global-text-color) 72%, transparent);
+    font-family: "Roboto Slab", Georgia, serif;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.55;
+  }
+
   body:has(.about-name-page) .post::before {
     content: "";
     display: block;
@@ -219,13 +235,13 @@
 
   .notes-list {
     list-style: none;
-    margin: 0.2rem 0 0;
+    margin: 0.1rem 0 0;
     padding: 0;
   }
 
   .notes-entry {
     border-bottom: 1px solid color-mix(in srgb, var(--global-divider-color) 72%, transparent);
-    padding: 0.75rem 0 0.7rem;
+    padding: 0.68rem 0 0.62rem;
   }
 
   .notes-entry:first-child {
@@ -233,9 +249,9 @@
   }
 
   .notes-entry h2 {
-    margin: 0 0 0.18rem;
+    margin: 0 0 0.12rem;
     font-family: Roboto, Arial, sans-serif;
-    font-size: 1.05rem;
+    font-size: 1.02rem;
     font-weight: 500;
     line-height: 1.35;
   }
@@ -252,28 +268,8 @@
   }
 
   .notes-entry p {
-    margin: 0 0 0.3rem;
+    margin: 0;
     color: color-mix(in srgb, var(--global-text-color) 78%, transparent);
-  }
-
-  .notes-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35rem 0.55rem;
-    align-items: center;
-    color: color-mix(in srgb, var(--global-text-color) 58%, transparent);
-    font-family: Roboto, Arial, sans-serif;
-    font-size: 0.82rem;
-  }
-
-  .notes-tags {
-    display: inline-flex;
-    flex-wrap: wrap;
-    gap: 0.3rem;
-  }
-
-  .notes-tags span {
-    color: var(--global-theme-color);
   }
 
   .cv-page {
@@ -633,7 +629,7 @@
       text-align: left;
     }
   }
-</style> <div class="notes-page"> <ul class="notes-list"> <li class="notes-entry"> <h2><a href="/notes/2026/giving-a-great-talk/">Giving a Great Talk</a></h2> <p>A note on clarity, audience, and the craft of scientific presentations.</p> <div class="notes-meta"> <time datetime="2026-07-25T10:50:00+00:00">July 25, 2026</time> </div> </li> <li class="notes-entry"> <h2><a href="/notes/2026/finding-your-element/">Finding Your Element</a></h2> <p>A reading note on talent, passion, education, and finding work that fits.</p> <div class="notes-meta"> <time datetime="2026-07-25T10:40:00+00:00">July 25, 2026</time> </div> </li> <li class="notes-entry"> <h2><a href="/notes/2026/von-neumann-and-myths-of-genius/">Von Neumann and Myths of Genius</a></h2> <p>A reading note on genius, education, anecdotes, and the stories we tell about exceptional minds.</p> <div class="notes-meta"> <time datetime="2026-07-25T10:30:00+00:00">July 25, 2026</time> </div> </li> <li class="notes-entry"> <h2><a href="/notes/2026/risk-and-scientific-work/">Risk and Scientific Work</a></h2> <p>A reading note on why science often rewards safety even while admiring risk.</p> <div class="notes-meta"> <time datetime="2026-07-25T10:20:00+00:00">July 25, 2026</time> </div> </li> <li class="notes-entry"> <h2><a href="/notes/2026/reality-keeps-unfolding/">Reality Keeps Unfolding</a></h2> <p>A short note on openness, incompleteness, and the difficulty of final interpretations.</p> <div class="notes-meta"> <time datetime="2026-07-25T10:10:00+00:00">July 25, 2026</time> </div> </li> <li class="notes-entry"> <h2><a href="/notes/2026/on-enjoying-ones-work/">On Enjoying One's Work</a></h2> <p>A short reading note on work, patience, and realistic sources of satisfaction.</p> <div class="notes-meta"> <time datetime="2026-07-25T10:00:00+00:00">July 25, 2026</time> </div> </li> </ul> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Johannes Fankhauser. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
+</style> <div class="notes-page"> <ul class="notes-list"> <li class="notes-entry"> <h2><a href="https://pirsa.org/22100109" target="_blank" rel="noopener">Giving a Great Talk</a></h2> <p>Robert Spekkens on clarity, selection, and scientific speaking as a craft.</p> </li> <li class="notes-entry"> <h2><a href="https://www.penguinrandomhouse.com/books/308737/finding-your-element-by-sir-ken-robinson-phd-with-lou-aronica/" target="_blank" rel="noopener">Finding Your Element</a></h2> <p>Ken Robinson on talent, passion, education, and finding work that fits.</p> </li> <li class="notes-entry"> <h2><a href="https://www.theintrinsicperspective.com/p/john-von-neumann-shot-lightning-from" target="_blank" rel="noopener">Von Neumann and Myths of Genius</a></h2> <p>Erik Hoel on genius, education, anecdotes, and the stories we tell about exceptional minds.</p> </li> <li class="notes-entry"> <h2><a href="https://qspace.fqxi.org/articles/284/risky-business-how-science-plays-things-too-safe" target="_blank" rel="noopener">Risk and Scientific Work</a></h2> <p>George Musser on why science often praises risk while rewarding safety.</p> </li> <li class="notes-entry"> <h2><a href="https://ckarchive.com/b/mvu7h5hqdzmd7uv5oo45wirxvvqq3i3hw9v2e" target="_blank" rel="noopener">Reality Keeps Unfolding</a></h2> <p>A short reflection from <em>The Imperfectionist</em> on openness, incompleteness, and final interpretations.</p> </li> <li class="notes-entry"> <h2><a href="https://terrytao.wordpress.com/career-advice/enjoy-your-work/" target="_blank" rel="noopener">On Enjoying One's Work</a></h2> <p>Terence Tao on motivation, satisfaction, and the everyday texture of serious intellectual work.</p> </li> </ul> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Johannes Fankhauser. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
