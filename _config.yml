@@ -122,7 +122,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Notes # blog_name will be displayed in your blog page
-blog_description: Essays, reading notes, and occasional thoughts on physics, philosophy, research, and academic life.
+blog_description: Essays, reading notes, and occasional thoughts on physics, philosophy, research, and life.
 permalink: /notes/:year/:title/
 lsi: false # produce an index for related posts
 
