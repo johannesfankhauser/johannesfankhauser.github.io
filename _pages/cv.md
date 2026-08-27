@@ -182,6 +182,7 @@ nav_order: 2
 <section class="cv-section" aria-labelledby="publications-heading">
   <h2 id="publications-heading">Selected Publications</h2>
   <ol class="cv-publications">
+    <li>T. Gonda, J. Fankhauser, and G. de les Coves, “The View from Within: What Can Embedded Observers (Not) Learn?,” 2026. <span class="cv-pub-links"><a href="https://arxiv.org/abs/2608.25800">arXiv</a></span></li>
     <li>J. Fankhauser, L. J. Fiderer, and H. J. Briegel, “Interpreting Quantum Learning Models via Stochastic Processes,” 2026. <span class="cv-pub-links"><a href="https://arxiv.org/abs/2607.17327">arXiv</a></span></li>
     <li>J. Fankhauser, T. Gonda, and G. de les Coves, “Epistemic Horizons From Deterministic Laws: Lessons From a Nomic Toy Theory,” <em>Synthese</em> 205, 136 (2025). <span class="cv-pub-links"><a href="https://doi.org/10.1007/s11229-024-04852-0">DOI</a> · <a href="https://arxiv.org/abs/2406.17581">arXiv</a></span></li>
     <li>J. Fankhauser, “The (un)detectability of trajectories in pilot-wave theory,” in A. Oldofredi (ed.), <em>Guiding Waves in Quantum Mechanics: One Hundred Years of de Broglie-Bohm Pilot-Wave Theory</em>, Oxford University Press (2025). <span class="cv-pub-links"><a href="https://doi.org/10.1093/oso/9780198901853.003.0010">DOI</a> · <a href="https://arxiv.org/abs/2503.07694">arXiv</a></span></li>
