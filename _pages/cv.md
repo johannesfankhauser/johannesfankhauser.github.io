@@ -186,7 +186,7 @@ nav_order: 2
     <li>J. Fankhauser, L. J. Fiderer, and H. J. Briegel, “Interpreting Quantum Learning Models via Stochastic Processes,” 2026. <span class="cv-pub-links"><a href="https://arxiv.org/abs/2607.17327">arXiv</a></span></li>
     <li>J. Fankhauser, T. Gonda, and G. de les Coves, “Epistemic Horizons From Deterministic Laws: Lessons From a Nomic Toy Theory,” <em>Synthese</em> 205, 136 (2025). <span class="cv-pub-links"><a href="https://doi.org/10.1007/s11229-024-04852-0">DOI</a> · <a href="https://arxiv.org/abs/2406.17581">arXiv</a></span></li>
     <li>J. Fankhauser, “The (un)detectability of trajectories in pilot-wave theory,” in A. Oldofredi (ed.), <em>Guiding Waves in Quantum Mechanics: One Hundred Years of de Broglie-Bohm Pilot-Wave Theory</em>, Oxford University Press (2025). <span class="cv-pub-links"><a href="https://doi.org/10.1093/oso/9780198901853.003.0010">DOI</a> · <a href="https://arxiv.org/abs/2503.07694">arXiv</a></span></li>
-    <li>J. Fankhauser, “Epistemic Boundaries and Quantum Indeterminacy: What Local Observers Can (Not) Predict,” <em>Quantum</em> 8, 1518 (2024). <span class="cv-pub-links"><a href="https://doi.org/10.22331/q-2024-11-07-1518">DOI</a> · <a href="https://arxiv.org/abs/2310.09121">arXiv</a></span></li>
+    <li>J. Fankhauser, “Epistemic Boundaries and Quantum Uncertainty: What Local Observers Can (Not) Predict,” <em>Quantum</em> 8, 1518 (2024). <span class="cv-pub-links"><a href="https://doi.org/10.22331/q-2024-11-07-1518">DOI</a> · <a href="https://arxiv.org/abs/2310.09121">arXiv</a></span></li>
     <li>J. Fankhauser and J. Read, “Gravitational redshift revisited: inertia, geometry, and charge,” <em>Studies in History and Philosophy of Science</em> 108 (2024). <span class="cv-pub-links"><a href="https://doi.org/10.1016/j.shpsa.2024.09.001">DOI</a> · <a href="https://arxiv.org/abs/2309.10499">arXiv</a></span></li>
     <li>J. Fankhauser and P. M. Dürr, “How (not) to Understand Weak Measurements of Velocities,” <em>Studies in History and Philosophy of Science</em> 85 (2021). <span class="cv-pub-links"><a href="https://doi.org/10.1016/j.shpsa.2020.12.002">DOI</a> · <a href="https://arxiv.org/abs/2309.10395">arXiv</a></span></li>
     <li>J. Fankhauser, “Taming the Delayed Choice Quantum Eraser,” <em>Quanta</em> 8 (2019). <span class="cv-pub-links"><a href="https://doi.org/10.12743/quanta.v8i1.88">DOI</a> · <a href="https://arxiv.org/abs/1707.07884">arXiv</a></span></li>
@@ -212,6 +212,7 @@ nav_order: 2
   <div class="cv-talk-year">
     <h3>2026</h3>
     <ul>
+      <li><span>September</span> Innsbruck-Konstanz-Hannover Meeting on Physics and Philosophy, Obergurgl, Austria. Talk: <em>Interpreting Quantum Learning Models via Stochastic Processes</em>.</li>
       <li><span>May</span> Conceptual Foundations of QFT, Vienna, Austria.</li>
       <li><span>April</span> <a href="https://www.cresci.art" target="_blank" rel="noopener"><em>A Radical Experiment | Between Art and Science</em></a>, Museo delle Arti Carrara, Italy. Invited scientist.</li>
       <li><span>April</span> BRCP Annual Meeting, Vienna, Austria.</li>
