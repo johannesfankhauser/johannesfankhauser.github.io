@@ -33,7 +33,7 @@ In November 2026, I will join the [Institute for Quantum Optics and Quantum Info
 
 Prior to my PhD, I obtained a [Master's degree in Philosophy of Physics](https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics) at Oxford and a Master's degree in Physics at [ETH Zurich](https://www.phys.ethz.ch/), where I did my undergraduate studies in physics.
 
-I'm committed to promoting education and fostering talent. To that end, I work on [projects](https://www.oeaw.ac.at/studienstiftung) which help intellectually talented students develop their potential.
+I'm committed to promoting education and fostering talent. To that end, I work with the [Austrian Study Foundation](https://www.oeaw.ac.at/studienstiftung) on projects which help intellectually talented students develop their potential.
 
 If you are planning to explore the foundations of physics, visit the [Oxford Philosophy of Physics page](https://www.philosophy-of-physics.ox.ac.uk/) and have a look at this [list for recommended literature](https://www.hps.cam.ac.uk/students/research-guide/philosophy-physics).
 
