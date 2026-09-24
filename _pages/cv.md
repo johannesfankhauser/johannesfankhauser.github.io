@@ -34,6 +34,7 @@ nav_order: 2
     <div><dt>Date of birth</dt><dd>11 December</dd></div>
     <div><dt>Nationality</dt><dd>Austrian</dd></div>
     <div><dt>Affiliation</dt><dd>Institute for Theoretical Physics, University of Innsbruck<br>Technikerstraße 21a, 6020 Innsbruck, Austria</dd></div>
+    <div><dt>From November 2026</dt><dd><a href="https://www.iqoqi-vienna.at/" target="_blank" rel="noopener">Institute for Quantum Optics and Quantum Information (IQOQI Vienna)</a>, Austrian Academy of Sciences</dd></div>
     <div><dt>Email</dt><dd><a href="mailto:johannes.j.fankhauser@gmail.com">johannes.j.fankhauser@gmail.com</a></dd></div>
     <div><dt>Website</dt><dd><a href="https://www.johannesfankhauser.net">johannesfankhauser.net</a></dd></div>
     <div><dt>ORCID</dt><dd><a href="https://orcid.org/0000-0001-8973-0373" target="_blank" rel="noopener">0000-0001-8973-0373</a></dd></div>
@@ -97,7 +98,17 @@ nav_order: 2
   <h2 id="experience-heading">Professional Experience</h2>
 
   <div class="cv-entry">
-    <div class="cv-date">Dec. 2024–present</div>
+    <div class="cv-date">From Nov. 2026<br>Upcoming</div>
+    <div>
+      <h3>Senior Postdoctoral Researcher &amp; Principal Investigator</h3>
+      <p class="cv-institution"><a href="https://www.iqoqi-vienna.at/" target="_blank" rel="noopener">Institute for Quantum Optics and Quantum Information (IQOQI Vienna)</a> · Austrian Academy of Sciences</p>
+      <p>In the group of <a href="https://www.iqoqi-vienna.at/research/mueller-group" target="_blank" rel="noopener">Markus Müller</a>.</p>
+      <p>FWF ESPRIT project: <a href="https://www.fwf.ac.at/forschungsradar/10.55776/ESP3089726" target="_blank" rel="noopener"><em>Unsplitting the World: Rethinking the Subject-Object Divide</em></a> (ESP3089726).</p>
+    </div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-date">Dec. 2024–Oct. 2026</div>
     <div>
       <h3>Postdoctoral Researcher</h3>
       <p class="cv-institution"><a href="https://www.uibk.ac.at/en/th-physik/qic-group/" target="_blank" rel="noopener">Quantum Information and Computation Group</a> · Institute for Theoretical Physics · University of Innsbruck</p>
